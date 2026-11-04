@@ -1,4 +1,4 @@
-- 👋 Hi, I’m BimuShrestha
+- 👋 Hi, I’m Beck Shrestha
 - 👀 I’m interested in Front End Developer
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
